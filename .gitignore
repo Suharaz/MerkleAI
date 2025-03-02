@@ -1,0 +1,16 @@
+
+.env
+.env.local
+.env.production
+.env.*.local
+
+
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
+
+
+logs/
+*.log
+debug.log
