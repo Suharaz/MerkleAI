@@ -1,0 +1,5672 @@
+{
+  "NEIRO_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.00037650019999999995,
+            "slope": -5.263800000000036e-7
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 39.64,
+            "slope": -0.3049999999999997
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.000010162758122513255,
+              "slope": -5.780279528891722e-7
+            },
+            "signal": {
+              "last_value": -0.000005876736887834164,
+              "slope": -9.353107367428913e-7
+            },
+            "histogram": {
+              "last_value": -0.000004286021234679092,
+              "slope": 3.572827838537192e-7
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.00037677450000000106,
+              "slope": -0.000002124949999999994
+            },
+            "upper": {
+              "last_value": 0.0004392530007742674,
+              "slope": -0.0000014480452068137302
+            },
+            "lower": {
+              "last_value": 0.00031429599922573473,
+              "slope": -0.0000028018547931862575
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 4.254977520873447,
+              "slope": -0.33217420558461097
+            },
+            "d": {
+              "last_value": 8.487577885916231,
+              "slope": 0.019598470543419212
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.00002313769058959158,
+            "slope": -2.6601477883475775e-7
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.000404522775288702,
+            "slope": -0.0000053732361944706
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.00036657,
+              "slope": -0.000005079500000000002
+            },
+            "kijunSen": {
+              "last_value": 0.000411835,
+              "slope": -5.53000000000001e-7
+            },
+            "senkouSpanA": {
+              "last_value": 0.0003892025,
+              "slope": -0.0000028162499999999987
+            },
+            "senkouSpanB": {
+              "last_value": 0.000395385,
+              "slope": 0
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.00032603250000000003,
+            "mean_price": 0.0005519783738524473,
+            "total_volume": 6685216922540
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.00115999,
+            "level23_6": 0.0009528174,
+            "level38_2": 0.0008246513,
+            "level50": 0.000721065,
+            "level61_8": 0.0006174787,
+            "level100": 0.00028214
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.00033808,
+    "changePercent": "0.05"
+  },
+  "APT_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 6.027000000000003,
+            "slope": 0.006220000000000248
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 48.68,
+            "slope": -0.4520000000000003
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.07484445689494379,
+              "slope": -0.005527202638155515
+            },
+            "signal": {
+              "last_value": 0.10943983204360075,
+              "slope": -0.0015403594552062597
+            },
+            "histogram": {
+              "last_value": -0.03459537514865696,
+              "slope": -0.003986843182949255
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 6.371000000000001,
+              "slope": 0.017150000000000176
+            },
+            "upper": {
+              "last_value": 6.658812438925076,
+              "slope": 0.0013062508953093576
+            },
+            "lower": {
+              "last_value": 6.083187561074927,
+              "slope": 0.032993749104690995
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 9.230769230769178,
+              "slope": -5.137529137529148
+            },
+            "d": {
+              "last_value": 14.871794871794876,
+              "slope": -5.280497280497286
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.22939029357701374,
+            "slope": -0.00009649898155833503
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 6.772362879999999,
+            "slope": 0.0756104342278471
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 6.484999999999999,
+              "slope": 0.008999999999999985
+            },
+            "kijunSen": {
+              "last_value": 6.22,
+              "slope": 0.015500000000000024
+            },
+            "senkouSpanA": {
+              "last_value": 6.352499999999999,
+              "slope": 0.01224999999999996
+            },
+            "senkouSpanB": {
+              "last_value": 5.925,
+              "slope": 0.009499999999999975
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 6.0925,
+            "mean_price": 7.1381069312816035,
+            "total_volume": 560247341.2
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 10.66,
+            "level23_6": 9.222760000000001,
+            "level38_2": 8.33362,
+            "level50": 7.615,
+            "level61_8": 6.896380000000001,
+            "level100": 4.57
+          }
+        }
+      }
+    ],
+    "currentPrice": 6.22,
+    "changePercent": "0.00"
+  },
+  "BTC_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 88377.68380000001,
+            "slope": -117.18031999999948
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 55.49,
+            "slope": 0.639
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 1312.748665481573,
+              "slope": 230.9628619241368
+            },
+            "signal": {
+              "last_value": 714.5695002037625,
+              "slope": 238.04239031033248
+            },
+            "histogram": {
+              "last_value": 598.1791652778105,
+              "slope": -7.0795283861956815
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 87765.62949999997,
+              "slope": 343.1999499999991
+            },
+            "upper": {
+              "last_value": 94752.94384543048,
+              "slope": 652.184219182223
+            },
+            "lower": {
+              "last_value": 80778.31515456946,
+              "slope": 34.21568081777514
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 54.74801722545646,
+              "slope": -3.699929706411357
+            },
+            "d": {
+              "last_value": 62.33676898617773,
+              "slope": -2.7813729239689295
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 2148.213940963996,
+            "slope": 35.596526342826266
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 89117,
+            "slope": 824.0775132000199
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 90025.3,
+              "slope": 514.7944999999993
+            },
+            "kijunSen": {
+              "last_value": 86629.26000000001,
+              "slope": 276.9915000000008
+            },
+            "senkouSpanA": {
+              "last_value": 88327.28,
+              "slope": 395.8929999999993
+            },
+            "senkouSpanB": {
+              "last_value": 87408.265,
+              "slope": -145.849500000001
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 95489.73400000001,
+            "mean_price": 96451.38775812848,
+            "total_volume": 1882198.7747919997
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 109588,
+            "level23_6": 102194.24272,
+            "level38_2": 97620.13864,
+            "level50": 93923.26000000001,
+            "level61_8": 90226.38136,
+            "level100": 78258.52
+          }
+        }
+      }
+    ],
+    "currentPrice": 90173.6,
+    "changePercent": "0.15"
+  },
+  "TRUMP_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 13.770200000000006,
+            "slope": -0.02330000000000023
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 54.54,
+            "slope": 0.18599999999999994
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.5011539375796197,
+              "slope": 0.06438799366675738
+            },
+            "signal": {
+              "last_value": 0.38727221530476497,
+              "slope": 0.07157891289519022
+            },
+            "histogram": {
+              "last_value": 0.11388172227485471,
+              "slope": -0.007190919228432835
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 14.149999999999983,
+              "slope": 0.12939999999999988
+            },
+            "upper": {
+              "last_value": 16.554745308759312,
+              "slope": 0.22208901061092162
+            },
+            "lower": {
+              "last_value": 11.745254691240653,
+              "slope": 0.03671098938907811
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 40.361445783132524,
+              "slope": -3.0158785430740322
+            },
+            "d": {
+              "last_value": 41.63319946452475,
+              "slope": -2.0409189745494496
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.9564803848579582,
+            "slope": 0.022788075972482523
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 17.6824,
+            "slope": 0.5793558903252978
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 15.57,
+              "slope": 0.21449999999999997
+            },
+            "kijunSen": {
+              "last_value": 14.405000000000001,
+              "slope": 0.1615000000000002
+            },
+            "senkouSpanA": {
+              "last_value": 14.9875,
+              "slope": 0.18800000000000008
+            },
+            "senkouSpanB": {
+              "last_value": 14.405000000000001,
+              "slope": 0.01799999999999997
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 14.369,
+            "mean_price": 28.742130862404487,
+            "total_volume": 1437384153.8470001
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 77.24,
+            "level23_6": 61.62152,
+            "level38_2": 51.959239999999994,
+            "level50": 44.15,
+            "level61_8": 36.34076,
+            "level100": 11.06
+          }
+        }
+      }
+    ],
+    "currentPrice": 14.78,
+    "changePercent": "0.41"
+  },
+  "ADA_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.7236699999999998,
+            "slope": 0.0032396000000000204
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 65.62,
+            "slope": 1.0210000000000008
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.09048359515990223,
+              "slope": 0.010019795227499706
+            },
+            "signal": {
+              "last_value": 0.06573577949243642,
+              "slope": 0.008317829167592522
+            },
+            "histogram": {
+              "last_value": 0.02474781566746581,
+              "slope": 0.0017019660599071839
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.7882649999999997,
+              "slope": 0.014663000000000015
+            },
+            "upper": {
+              "last_value": 1.1499501187151604,
+              "slope": 0.04633744344747091
+            },
+            "lower": {
+              "last_value": 0.4265798812848388,
+              "slope": -0.017011443447470888
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 61.201091901728844,
+              "slope": -3.38453477267541
+            },
+            "d": {
+              "last_value": 61.14649681528658,
+              "slope": -1.9211191316187268
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.06752466439123041,
+            "slope": 0.004380292104032511
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.8872540200448,
+            "slope": 0.028964230947082236
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.90985,
+              "slope": 0.02591
+            },
+            "kijunSen": {
+              "last_value": 0.8774,
+              "slope": 0.023964999999999993
+            },
+            "senkouSpanA": {
+              "last_value": 0.893625,
+              "slope": 0.0249375
+            },
+            "senkouSpanB": {
+              "last_value": 0.8774,
+              "slope": 0.017799999999999993
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 1.0075250000000002,
+            "mean_price": 0.899939594513742,
+            "total_volume": 16450555311.199997
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 1.1747,
+            "level23_6": 1.0168868,
+            "level38_2": 0.9192566,
+            "level50": 0.84035,
+            "level61_8": 0.7614434000000001,
+            "level100": 0.506
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.9615,
+    "changePercent": "0.40"
+  },
+  "PNUT_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.2009580000000003,
+            "slope": 0.0009066000000000019
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 44.15,
+            "slope": -1.0840000000000003
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.002899837285639695,
+              "slope": -0.0009515729260675427
+            },
+            "signal": {
+              "last_value": 0.008470632438679015,
+              "slope": -0.0005823406571081209
+            },
+            "histogram": {
+              "last_value": -0.005570795153039321,
+              "slope": -0.0003692322689594216
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.2332600000000001,
+              "slope": 0.0016859999999999874
+            },
+            "upper": {
+              "last_value": 0.27047716808141115,
+              "slope": -0.00007789345872986076
+            },
+            "lower": {
+              "last_value": 0.19604283191858907,
+              "slope": 0.0034498934587298357
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 4.308797127468555,
+              "slope": -3.0922789812546623
+            },
+            "d": {
+              "last_value": 6.372269617314444,
+              "slope": -2.695793807755004
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.01908854448699877,
+            "slope": -0.00025408175316448783
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.28214176821728804,
+            "slope": -0.0023512071782711974
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.23015000000000002,
+              "slope": -0.0031949999999999978
+            },
+            "kijunSen": {
+              "last_value": 0.243,
+              "slope": 0.00019500000000000073
+            },
+            "senkouSpanA": {
+              "last_value": 0.236575,
+              "slope": -0.0014999999999999985
+            },
+            "senkouSpanB": {
+              "last_value": 0.2259,
+              "slope": 0.000029999999999996697
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.16671,
+            "mean_price": 0.30043107141524733,
+            "total_volume": 20022125922.7
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.8053,
+            "level23_6": 0.6466608,
+            "level38_2": 0.5485196,
+            "level50": 0.4692,
+            "level61_8": 0.3898804,
+            "level100": 0.1331
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.2047,
+    "changePercent": "-0.15"
+  },
+  "DOGS_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.00017020999999999998,
+            "slope": -4.240000000000352e-8
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 51.58,
+            "slope": 0.45499999999999974
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.000004007514366595992,
+              "slope": 3.92166017137543e-7
+            },
+            "signal": {
+              "last_value": 0.00000362579203354076,
+              "slope": 2.981488214626228e-7
+            },
+            "histogram": {
+              "last_value": 3.8172233305523173e-7,
+              "slope": 9.401719567492023e-8
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.0001776099999999998,
+              "slope": 6.855000000000028e-7
+            },
+            "upper": {
+              "last_value": 0.00019599835501071244,
+              "slope": 0.000001349933951344767
+            },
+            "lower": {
+              "last_value": 0.00015922164498928718,
+              "slope": 2.1066048655238616e-8
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 40.26666666666669,
+              "slope": -0.009047619047617417
+            },
+            "d": {
+              "last_value": 47.11111111111119,
+              "slope": 0.47301587301587633
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.00000803808992265629,
+            "slope": 1.1106957195270066e-7
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.0001709062244769792,
+            "slope": -0.0000011321575523020796
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.00018380000000000002,
+              "slope": 0.0000010550000000000013
+            },
+            "kijunSen": {
+              "last_value": 0.000178,
+              "slope": 9.000000000000002e-7
+            },
+            "senkouSpanA": {
+              "last_value": 0.0001809,
+              "slope": 9.775000000000008e-7
+            },
+            "senkouSpanB": {
+              "last_value": 0.00016965,
+              "slope": 2.450000000000005e-7
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.00016072,
+            "mean_price": 0.0002972138907789374,
+            "total_volume": 1820961596692
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.0005867,
+            "level23_6": 0.0004808776,
+            "level38_2": 0.00041541120000000004,
+            "level50": 0.0003625,
+            "level61_8": 0.0003095888,
+            "level100": 0.0001383
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.0001786,
+    "changePercent": "-0.11"
+  },
+  "ETH_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 2390.6385999999957,
+            "slope": -7.968039999999974
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 46.81,
+            "slope": 0.6480000000000004
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.08553810066678125,
+              "slope": 7.086257941259009
+            },
+            "signal": {
+              "last_value": -14.910452543224338,
+              "slope": 6.995641771619835
+            },
+            "histogram": {
+              "last_value": 14.824914442557557,
+              "slope": 0.09061616963917488
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 2282.895000000003,
+              "slope": 3.87489999999998
+            },
+            "upper": {
+              "last_value": 2478.7659624727494,
+              "slope": 8.805825909836495
+            },
+            "lower": {
+              "last_value": 2087.024037527257,
+              "slope": -1.056025909836535
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 36.221650116464396,
+              "slope": -2.4269271201625657
+            },
+            "d": {
+              "last_value": 41.32810265211882,
+              "slope": -1.397654766115385
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 82.2878280758183,
+            "slope": 1.2900004677617347
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 2266.97,
+            "slope": 17.10252928483833
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 2361.31,
+              "slope": 14.9375
+            },
+            "kijunSen": {
+              "last_value": 2313.42,
+              "slope": 0.8545000000000073
+            },
+            "senkouSpanA": {
+              "last_value": 2337.365,
+              "slope": 7.8960000000000035
+            },
+            "senkouSpanB": {
+              "last_value": 2466.8,
+              "slope": 0
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 2660.2595,
+            "mean_price": 2900.906286996932,
+            "total_volume": 38355941.8688
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 3744.83,
+            "level23_6": 3351.04748,
+            "level38_2": 3107.43626,
+            "level50": 2910.545,
+            "level61_8": 2713.65374,
+            "level100": 2076.26
+          }
+        }
+      }
+    ],
+    "currentPrice": 2290.46,
+    "changePercent": "0.14"
+  },
+  "XRP_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 2.329535999999998,
+            "slope": 0.0009873999999999495
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 59.5,
+            "slope": 0.46000000000000013
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.12000972183297787,
+              "slope": 0.01515458028237866
+            },
+            "signal": {
+              "last_value": 0.08940811424050879,
+              "slope": 0.014393046880834485
+            },
+            "histogram": {
+              "last_value": 0.030601607592469077,
+              "slope": 0.0007615334015441753
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 2.3995,
+              "slope": 0.023838499999999964
+            },
+            "upper": {
+              "last_value": 2.94487276793034,
+              "slope": 0.06496097411092192
+            },
+            "lower": {
+              "last_value": 1.8541272320696605,
+              "slope": -0.017283974110921994
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 54.40975387420236,
+              "slope": -4.123281006643539
+            },
+            "d": {
+              "last_value": 55.70115466423578,
+              "slope": -2.874717527273807
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.13012852950988157,
+            "slope": 0.0052686087974893395
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 2.502355015540994,
+            "slope": 0.05461870155409938
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 2.6096000000000004,
+              "slope": 0.041815000000000026
+            },
+            "kijunSen": {
+              "last_value": 2.475,
+              "slope": 0.03163500000000004
+            },
+            "senkouSpanA": {
+              "last_value": 2.5423,
+              "slope": 0.03672500000000003
+            },
+            "senkouSpanB": {
+              "last_value": 2.475,
+              "slope": 0.014150000000000018
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 2.504105,
+            "mean_price": 2.656653300771978,
+            "total_volume": 24207619144.43
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 3.4,
+            "level23_6": 3.0155795999999997,
+            "level38_2": 2.7777602,
+            "level50": 2.58555,
+            "level61_8": 2.3933397999999997,
+            "level100": 1.7711
+          }
+        }
+      }
+    ],
+    "currentPrice": 2.5989,
+    "changePercent": "0.03"
+  },
+  "SUI_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 2.930618000000002,
+            "slope": -0.00768279999999999
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 46.75,
+            "slope": -0.19200000000000017
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.01741379991160752,
+              "slope": 0.0057966964843770615
+            },
+            "signal": {
+              "last_value": 0.013386326685953145,
+              "slope": 0.0076274430956958334
+            },
+            "histogram": {
+              "last_value": 0.004027473225654374,
+              "slope": -0.0018307466113187717
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 2.9073100000000003,
+              "slope": 0.010028499999999996
+            },
+            "upper": {
+              "last_value": 3.141584146247511,
+              "slope": 0.013256863285641084
+            },
+            "lower": {
+              "last_value": 2.6730358537524896,
+              "slope": 0.006800136714358906
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 20.268256333830045,
+              "slope": -6.088229446176358
+            },
+            "d": {
+              "last_value": 25.079838194592266,
+              "slope": -5.176403987111724
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.12089059965421778,
+            "slope": 0.0006111794264331393
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 3.243408,
+            "slope": 0.06452436228513792
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 3.0218,
+              "slope": 0.017964999999999964
+            },
+            "kijunSen": {
+              "last_value": 2.8839,
+              "slope": 0.007764999999999978
+            },
+            "senkouSpanA": {
+              "last_value": 2.9528499999999998,
+              "slope": 0.01286499999999995
+            },
+            "senkouSpanB": {
+              "last_value": 2.99785,
+              "slope": -0.004535
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 3.1346749999999997,
+            "mean_price": 3.8322524611300546,
+            "total_volume": 5184450914.699999
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 5.3687,
+            "level23_6": 4.6657268,
+            "level38_2": 4.2308366,
+            "level50": 3.8793499999999996,
+            "level61_8": 3.5278634,
+            "level100": 2.39
+          }
+        }
+      }
+    ],
+    "currentPrice": 2.8768,
+    "changePercent": "0.06"
+  },
+  "BOME_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.0018752799999999987,
+            "slope": -0.000003251999999999986
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 48.19,
+            "slope": -0.03300000000000054
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.000025344637247961925,
+              "slope": 0.000004144714014579732
+            },
+            "signal": {
+              "last_value": 0.000022757543909729938,
+              "slope": 0.000004056011110982862
+            },
+            "histogram": {
+              "last_value": 0.0000025870933382319874,
+              "slope": 8.870290359687081e-8
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.0019060999999999978,
+              "slope": 0.000006265000000000025
+            },
+            "upper": {
+              "last_value": 0.002087611321960916,
+              "slope": 0.000010793434225425365
+            },
+            "lower": {
+              "last_value": 0.00172458867803908,
+              "slope": 0.0000017365657745747063
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 32.722513089005226,
+              "slope": -1.9220949808521304
+            },
+            "d": {
+              "last_value": 41.448516579406736,
+              "slope": -0.3781165399391945
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.00008715985925486122,
+            "slope": 0.000001082039449242303
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.0021366,
+            "slope": 0.000037630702256976004
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.0019825,
+              "slope": 0.000011800000000000006
+            },
+            "kijunSen": {
+              "last_value": 0.001914,
+              "slope": 0.000008649999999999998
+            },
+            "senkouSpanA": {
+              "last_value": 0.00194825,
+              "slope": 0.000010224999999999991
+            },
+            "senkouSpanB": {
+              "last_value": 0.0018815,
+              "slope": -0.000004700000000000017
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.00186965,
+            "mean_price": 0.003287047539107825,
+            "total_volume": 481834956960
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.007202,
+            "level23_6": 0.005877332,
+            "level38_2": 0.005057834000000001,
+            "level50": 0.0043955,
+            "level61_8": 0.003733166,
+            "level100": 0.001589
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.001885,
+    "changePercent": "-0.05"
+  },
+  "TAO_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 358.1560000000001,
+            "slope": -1.967800000000011
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 39.63,
+            "slope": -1.0079999999999998
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -6.89146552634395,
+              "slope": 0.44902554917585463
+            },
+            "signal": {
+              "last_value": -7.215699585512674,
+              "slope": 0.8763982161242048
+            },
+            "histogram": {
+              "last_value": 0.32423405916872383,
+              "slope": -0.42737266694835013
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 333.40999999999985,
+              "slope": -0.1484999999999957
+            },
+            "upper": {
+              "last_value": 353.2062521705497,
+              "slope": -1.5355257895092507
+            },
+            "lower": {
+              "last_value": 313.61374782945,
+              "slope": 1.2385257895092594
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 8.948545861297541,
+              "slope": -8.736928359606685
+            },
+            "d": {
+              "last_value": 15.88366890380312,
+              "slope": -6.02901360629165
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 15.531909404649866,
+            "slope": -0.08435699769538765
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 357.94736,
+            "slope": 4.659060554266603
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 338.6,
+              "slope": 0.6700000000000046
+            },
+            "kijunSen": {
+              "last_value": 328.45,
+              "slope": -1.9650000000000034
+            },
+            "senkouSpanA": {
+              "last_value": 333.525,
+              "slope": -0.6475000000000023
+            },
+            "senkouSpanB": {
+              "last_value": 372.7,
+              "slope": -1.3
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 430.03,
+            "mean_price": 409.2586334039776,
+            "total_volume": 11908872.7302
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 588.7,
+            "level23_6": 505.48640000000006,
+            "level38_2": 454.0068,
+            "level50": 412.40000000000003,
+            "level61_8": 370.79320000000007,
+            "level100": 236.1
+          }
+        }
+      }
+    ],
+    "currentPrice": 319.8,
+    "changePercent": "0.00"
+  },
+  "LTC_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 122.29640000000009,
+            "slope": -0.13444000000000217
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 35.24,
+            "slope": -1.19
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -1.868345817056806,
+              "slope": -0.22613676726139859
+            },
+            "signal": {
+              "last_value": -0.5867900547844899,
+              "slope": -0.11743070877760527
+            },
+            "histogram": {
+              "last_value": -1.281555762272316,
+              "slope": -0.10870605848379329
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 123.29650000000018,
+              "slope": -0.18924999999999842
+            },
+            "upper": {
+              "last_value": 131.94648560692463,
+              "slope": 0.023852894193581164
+            },
+            "lower": {
+              "last_value": 114.64651439307573,
+              "slope": -0.402352894193578
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 7.087053571428549,
+              "slope": -4.429937710703756
+            },
+            "d": {
+              "last_value": 9.201419134727011,
+              "slope": -4.83155436295028
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 4.978211103058826,
+            "slope": 0.023926827152579655
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 128.73072,
+            "slope": 1.1049519912180117
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 121.44,
+              "slope": -0.5205000000000013
+            },
+            "kijunSen": {
+              "last_value": 122.10499999999999,
+              "slope": -0.037000000000000456
+            },
+            "senkouSpanA": {
+              "last_value": 121.7725,
+              "slope": -0.27875000000000083
+            },
+            "senkouSpanB": {
+              "last_value": 119.03999999999999,
+              "slope": -0.4085000000000008
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 125.925,
+            "mean_price": 118.92416014110252,
+            "total_volume": 83516760.095
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 141.22,
+            "level23_6": 126.78152,
+            "level38_2": 117.84924000000001,
+            "level50": 110.63,
+            "level61_8": 103.41076000000001,
+            "level100": 80.04
+          }
+        }
+      }
+    ],
+    "currentPrice": 113.75,
+    "changePercent": "0.03"
+  },
+  "ZRO_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 2.6216399999999966,
+            "slope": -0.005786000000000113
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 45.3,
+            "slope": -0.029000000000000626
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.0009675465884715351,
+              "slope": 0.0029150378956604326
+            },
+            "signal": {
+              "last_value": -0.00041597727390227867,
+              "slope": 0.0032904755162223897
+            },
+            "histogram": {
+              "last_value": -0.0005515693145692564,
+              "slope": -0.0003754376205619569
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 2.6143500000000017,
+              "slope": 0.0023299999999999875
+            },
+            "upper": {
+              "last_value": 2.780693349731814,
+              "slope": 0.003763219882504476
+            },
+            "lower": {
+              "last_value": 2.4480066502681894,
+              "slope": 0.0008967801174954992
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 19.945355191256812,
+              "slope": -3.1917998846010205
+            },
+            "d": {
+              "last_value": 25.68306010928957,
+              "slope": -2.7422529952822123
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.09695212879152598,
+            "slope": 0.0004928416950704867
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 2.8436,
+            "slope": 0.0376967229384805
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 2.6685,
+              "slope": 0.007449999999999957
+            },
+            "kijunSen": {
+              "last_value": 2.616,
+              "slope": 0.00575000000000001
+            },
+            "senkouSpanA": {
+              "last_value": 2.6422499999999998,
+              "slope": 0.0065999999999999835
+            },
+            "senkouSpanB": {
+              "last_value": 2.6485,
+              "slope": -0.007400000000000029
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 2.72055,
+            "mean_price": 3.694147666563339,
+            "total_volume": 243853104.56
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 6.084,
+            "level23_6": 5.150148,
+            "level38_2": 4.572426,
+            "level50": 4.105499999999999,
+            "level61_8": 3.6385739999999998,
+            "level100": 2.127
+          }
+        }
+      }
+    ],
+    "currentPrice": 2.557,
+    "changePercent": "0.08"
+  },
+  "EIGEN_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 1.6674199999999986,
+            "slope": -0.006431999999999949
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 44.11,
+            "slope": 0.1740000000000002
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.007496976081939,
+              "slope": 0.0023149690120532807
+            },
+            "signal": {
+              "last_value": -0.007165147359060227,
+              "slope": 0.0020826019927568185
+            },
+            "histogram": {
+              "last_value": -0.0003318287228787726,
+              "slope": 0.00023236701929646209
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 1.649000000000001,
+              "slope": -0.0006350000000000077
+            },
+            "upper": {
+              "last_value": 1.7710131140492702,
+              "slope": -0.0012110553034367477
+            },
+            "lower": {
+              "last_value": 1.5269868859507316,
+              "slope": -0.00005894469656326784
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 15.573770491803293,
+              "slope": -1.7109156337465072
+            },
+            "d": {
+              "last_value": 23.087431693989007,
+              "slope": -1.1809637773600012
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.07546758339460066,
+            "slope": 0.0005755385521253375
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 1.8027,
+            "slope": 0.02546657343155776
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 1.685,
+              "slope": 0.0038000000000000035
+            },
+            "kijunSen": {
+              "last_value": 1.664,
+              "slope": 0.0010999999999999899
+            },
+            "senkouSpanA": {
+              "last_value": 1.6745,
+              "slope": 0.002450000000000019
+            },
+            "senkouSpanB": {
+              "last_value": 1.727,
+              "slope": -0.0030000000000000027
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 1.8302500000000002,
+            "mean_price": 2.302796989033283,
+            "total_volume": 911943471.3
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 4.274,
+            "level23_6": 3.5955,
+            "level38_2": 3.17575,
+            "level50": 2.8365,
+            "level61_8": 2.49725,
+            "level100": 1.399
+          }
+        }
+      }
+    ],
+    "currentPrice": 1.601,
+    "changePercent": "0.06"
+  },
+  "OP_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 1.0872999999999984,
+            "slope": -0.0005440000000000112
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 46.3,
+            "slope": 0.35
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.0022362677422658184,
+              "slope": 0.0017954365250419046
+            },
+            "signal": {
+              "last_value": 0.0013319812962256047,
+              "slope": 0.0012702067918671075
+            },
+            "histogram": {
+              "last_value": 0.0009042864460402137,
+              "slope": 0.000525229733174797
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 1.0799499999999995,
+              "slope": -0.0008650000000000047
+            },
+            "upper": {
+              "last_value": 1.1541240520667433,
+              "slope": -0.0034931709340952468
+            },
+            "lower": {
+              "last_value": 1.0057759479332558,
+              "slope": 0.0017631709340952483
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 25.675675675675713,
+              "slope": -0.3190303705767555
+            },
+            "d": {
+              "last_value": 32.64458006393496,
+              "slope": 1.0307238650969066
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.04115806468148648,
+            "slope": 0.000330206943184657
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 1.17766,
+            "slope": 0.009889274932334957
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 1.1084999999999998,
+              "slope": 0.004549999999999987
+            },
+            "kijunSen": {
+              "last_value": 1.0985,
+              "slope": -0.001399999999999979
+            },
+            "senkouSpanA": {
+              "last_value": 1.1035,
+              "slope": 0.0015750000000000152
+            },
+            "senkouSpanB": {
+              "last_value": 1.07,
+              "slope": 0
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 1.1360000000000001,
+            "mean_price": 1.3796815423253062,
+            "total_volume": 1784883154.9299998
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 2.186,
+            "level23_6": 1.8556,
+            "level38_2": 1.6512,
+            "level50": 1.486,
+            "level61_8": 1.3208,
+            "level100": 0.786
+          }
+        }
+      }
+    ],
+    "currentPrice": 1.07,
+    "changePercent": "0.00"
+  },
+  "SHIB_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.000014167199999999995,
+            "slope": -2.545999999999992e-8
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 44.24,
+            "slope": 0.11300000000000025
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -1.7613926714646314e-8,
+              "slope": 1.9604114278716282e-8
+            },
+            "signal": {
+              "last_value": -2.4027533987949258e-8,
+              "slope": 1.9907827811068878e-8
+            },
+            "histogram": {
+              "last_value": 6.4136072733029435e-9,
+              "slope": -3.0371353235259605e-10
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.00001397800000000001,
+              "slope": 1.450000000000469e-9
+            },
+            "upper": {
+              "last_value": 0.00001483573189284299,
+              "slope": -7.76370454848259e-9
+            },
+            "lower": {
+              "last_value": 0.000013120268107157031,
+              "slope": 1.066370454848353e-8
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 19.44444444444445,
+              "slope": -2.852852852852849
+            },
+            "d": {
+              "last_value": 25.370370370370342,
+              "slope": -1.4306613719835302
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 4.495679279341311e-7,
+            "slope": 7.693444004852472e-9
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.0000151688,
+            "slope": 1.2053225600000007e-7
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.000014344999999999999,
+              "slope": 5.6499999999999884e-8
+            },
+            "kijunSen": {
+              "last_value": 0.0000141,
+              "slope": 1.7000000000000007e-8
+            },
+            "senkouSpanA": {
+              "last_value": 0.0000142225,
+              "slope": 3.674999999999994e-8
+            },
+            "senkouSpanB": {
+              "last_value": 0.00001439,
+              "slope": -9.999999999999904e-9
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.0000216275,
+            "mean_price": 0.000018639103020676258,
+            "total_volume": 239441179009254
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.00002497,
+            "level23_6": 0.000021814679999999998,
+            "level38_2": 0.00001986266,
+            "level50": 0.000018285,
+            "level61_8": 0.00001670734,
+            "level100": 0.0000116
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.00001375,
+    "changePercent": "0.15"
+  },
+  "TON_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 3.4410200000000004,
+            "slope": -0.006332000000000004
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 42.42,
+            "slope": 0.012000000000000455
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.021618415187627527,
+              "slope": 0.0040265835477429675
+            },
+            "signal": {
+              "last_value": -0.025193761671554137,
+              "slope": 0.004367790888375374
+            },
+            "histogram": {
+              "last_value": 0.0035753464839266107,
+              "slope": -0.0003412073406324063
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 3.3369,
+              "slope": -0.0006150000000000322
+            },
+            "upper": {
+              "last_value": 3.463782465297613,
+              "slope": -0.007567066604198702
+            },
+            "lower": {
+              "last_value": 3.210017534702387,
+              "slope": 0.006337066604198638
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 19.729729729729712,
+              "slope": -3.3300573300573246
+            },
+            "d": {
+              "last_value": 25.225225225225234,
+              "slope": -2.812206885377618
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.09126554554551476,
+            "slope": 0.0005861552267137013
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 3.5764,
+            "slope": 0.045155999999999974
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 3.418,
+              "slope": 0.012600000000000033
+            },
+            "kijunSen": {
+              "last_value": 3.3515,
+              "slope": -0.0020999999999999908
+            },
+            "senkouSpanA": {
+              "last_value": 3.3847500000000004,
+              "slope": 0.005250000000000021
+            },
+            "senkouSpanB": {
+              "last_value": 3.4675000000000002,
+              "slope": 0
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 3.70525,
+            "mean_price": 4.449588808799038,
+            "total_volume": 371429981.84000003
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 5.887,
+            "level23_6": 5.200476,
+            "level38_2": 4.775762,
+            "level50": 4.4325,
+            "level61_8": 4.089238,
+            "level100": 2.978
+          }
+        }
+      }
+    ],
+    "currentPrice": 3.286,
+    "changePercent": "0.09"
+  },
+  "DOGE_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.21206359999999944,
+            "slope": -0.0004943600000000076
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 51.4,
+            "slope": 0.16599999999999965
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.0031833708255719073,
+              "slope": 0.0006145244618338763
+            },
+            "signal": {
+              "last_value": 0.002021921063631096,
+              "slope": 0.0007082063245878572
+            },
+            "histogram": {
+              "last_value": 0.0011614497619408114,
+              "slope": -0.00009368186275398086
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.21152799999999988,
+              "slope": 0.0009360999999999953
+            },
+            "upper": {
+              "last_value": 0.2335709005350928,
+              "slope": 0.0017380778058269097
+            },
+            "lower": {
+              "last_value": 0.18948509946490696,
+              "slope": 0.0001341221941730808
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 37.1080954609265,
+              "slope": -5.396983607585434
+            },
+            "d": {
+              "last_value": 40.40711277491801,
+              "slope": -4.406944612771837
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.008895494968354751,
+            "slope": 0.00019529221724200134
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.24158380000000002,
+            "slope": 0.005456021416933377
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.221935,
+              "slope": 0.0019619999999999998
+            },
+            "kijunSen": {
+              "last_value": 0.21186,
+              "slope": 0.001376499999999997
+            },
+            "senkouSpanA": {
+              "last_value": 0.2168975,
+              "slope": 0.0016692499999999971
+            },
+            "senkouSpanB": {
+              "last_value": 0.21456,
+              "slope": -0.0006880000000000025
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.370945,
+            "mean_price": 0.3112848180789138,
+            "total_volume": 105462653587
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.43408,
+            "level23_6": 0.37448056,
+            "level38_2": 0.33760972,
+            "level50": 0.30781000000000003,
+            "level61_8": 0.27801028000000005,
+            "level100": 0.18154
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.2153,
+    "changePercent": "0.06"
+  },
+  "FLOKI_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.00008346840000000013,
+            "slope": -2.3435999999999618e-7
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 44.13,
+            "slope": -0.06899999999999977
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -1.0628775163732567e-7,
+              "slope": 1.3539305696035914e-7
+            },
+            "signal": {
+              "last_value": -1.863711886862663e-7,
+              "slope": 1.605988605779019e-7
+            },
+            "histogram": {
+              "last_value": 8.008343704894062e-8,
+              "slope": -2.5205803617542732e-8
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.00008209300000000007,
+              "slope": 9.769999999999874e-8
+            },
+            "upper": {
+              "last_value": 0.00008753352240138764,
+              "slope": 9.06357733189013e-8
+            },
+            "lower": {
+              "last_value": 0.0000766524775986125,
+              "slope": 1.0476422668109617e-7
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 17.683465959327982,
+              "slope": -4.838983246999151
+            },
+            "d": {
+              "last_value": 25.08104921898024,
+              "slope": -3.4804436451709626
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.0000029766703521598388,
+            "slope": 3.622206302585269e-8
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.0000895496,
+            "slope": 0.0000013229676345537346
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.00008412,
+              "slope": 3.0700000000000094e-7
+            },
+            "kijunSen": {
+              "last_value": 0.00008193,
+              "slope": 1.770000000000005e-7
+            },
+            "senkouSpanA": {
+              "last_value": 0.000083025,
+              "slope": 2.420000000000007e-7
+            },
+            "senkouSpanB": {
+              "last_value": 0.00008576999999999999,
+              "slope": -1.4900000000000145e-7
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.000091654,
+            "mean_price": 0.00012332179114821326,
+            "total_volume": 23758790127613
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.00020688,
+            "level23_6": 0.00017488783999999999,
+            "level38_2": 0.00015509608,
+            "level50": 0.0001391,
+            "level61_8": 0.00012310392,
+            "level100": 0.00007132
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.00008044,
+    "changePercent": "0.01"
+  },
+  "ENA_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.4133480000000001,
+            "slope": -0.0005866000000000037
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 45.33,
+            "slope": 0.13500000000000015
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.0012869723676818823,
+              "slope": 0.0006336805453295569
+            },
+            "signal": {
+              "last_value": 0.0021080060232213254,
+              "slope": 0.0005975362282399423
+            },
+            "histogram": {
+              "last_value": -0.0008210336555394431,
+              "slope": 0.000036144317089614614
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.4144,
+              "slope": 0.00033600000000000296
+            },
+            "upper": {
+              "last_value": 0.4591833451184701,
+              "slope": 0.0017600562010180842
+            },
+            "lower": {
+              "last_value": 0.3696166548815299,
+              "slope": -0.0010880562010180783
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 16.965226554267655,
+              "slope": -1.3256995667954576
+            },
+            "d": {
+              "last_value": 21.42606252195287,
+              "slope": -0.8309918135486345
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.021858723461785613,
+            "slope": 0.00048510914993828423
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.478394,
+            "slope": 0.0063949859852479975
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.43255,
+              "slope": 0.0023449999999999973
+            },
+            "kijunSen": {
+              "last_value": 0.4317,
+              "slope": 0.001899999999999996
+            },
+            "senkouSpanA": {
+              "last_value": 0.432125,
+              "slope": 0.0021224999999999937
+            },
+            "senkouSpanB": {
+              "last_value": 0.421,
+              "slope": -0.0000050000000000050004
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.40952,
+            "mean_price": 0.6911290342030338,
+            "total_volume": 12500119472.300001
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 1.3124,
+            "level23_6": 1.0881056,
+            "level38_2": 0.9493472000000001,
+            "level50": 0.8371999999999999,
+            "level61_8": 0.7250528,
+            "level100": 0.362
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.4012,
+    "changePercent": "0.10"
+  },
+  "INJ_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 13.604600000000023,
+            "slope": -0.03714000000000013
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 46.82,
+            "slope": 0.20600000000000024
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.012437120977860872,
+              "slope": 0.027317303398072746
+            },
+            "signal": {
+              "last_value": -0.036651186191659565,
+              "slope": 0.027844927952156224
+            },
+            "histogram": {
+              "last_value": 0.04908830716952044,
+              "slope": -0.0005276245540834793
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 13.263500000000013,
+              "slope": 0.017849999999999432
+            },
+            "upper": {
+              "last_value": 14.206840341552308,
+              "slope": 0.0344730310732972
+            },
+            "lower": {
+              "last_value": 12.320159658447718,
+              "slope": 0.0012269689267016659
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 33.3333333333333,
+              "slope": -2.2510822510822472
+            },
+            "d": {
+              "last_value": 39.24731182795693,
+              "slope": -1.533584294171139
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.5238276266562857,
+            "slope": 0.001805499010965572
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 14.3926,
+            "slope": 0.20157525220352018
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 13.495000000000001,
+              "slope": 0.045500000000000186
+            },
+            "kijunSen": {
+              "last_value": 13.254999999999999,
+              "slope": 0.0254999999999999
+            },
+            "senkouSpanA": {
+              "last_value": 13.375,
+              "slope": 0.035500000000000045
+            },
+            "senkouSpanB": {
+              "last_value": 14.19,
+              "slope": -0.028000000000000115
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 13.576,
+            "mean_price": 17.922243272724412,
+            "total_volume": 95871677.00999998
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 26.7,
+            "level23_6": 23.05616,
+            "level38_2": 20.80192,
+            "level50": 18.98,
+            "level61_8": 17.158079999999998,
+            "level100": 11.26
+          }
+        }
+      }
+    ],
+    "currentPrice": 13.18,
+    "changePercent": "0.00"
+  },
+  "HBAR_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.2156604000000002,
+            "slope": 0.0007454199999999995
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 58.5,
+            "slope": -1.7319999999999993
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.011701152070035636,
+              "slope": -0.00007007577878645755
+            },
+            "signal": {
+              "last_value": 0.012673959021585251,
+              "slope": 0.0006070677836467117
+            },
+            "histogram": {
+              "last_value": -0.0009728069515496148,
+              "slope": -0.0006771435624331692
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.2418234999999996,
+              "slope": 0.0028586499999999986
+            },
+            "upper": {
+              "last_value": 0.2751985099775262,
+              "slope": 0.001883087951610163
+            },
+            "lower": {
+              "last_value": 0.208448490022473,
+              "slope": 0.0038342120483898347
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 35.63728598604946,
+              "slope": -4.809730003861286
+            },
+            "d": {
+              "last_value": 36.832698966888906,
+              "slope": -5.242386919649183
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.013024726951573532,
+            "slope": 0.0001698865746690658
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.28363358400000005,
+            "slope": 0.006557985099275868
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.265065,
+              "slope": 0.003112999999999999
+            },
+            "kijunSen": {
+              "last_value": 0.23388,
+              "slope": 0.0011355000000000004
+            },
+            "senkouSpanA": {
+              "last_value": 0.24947249999999999,
+              "slope": 0.00212425
+            },
+            "senkouSpanB": {
+              "last_value": 0.23172500000000001,
+              "slope": 0.0011355000000000004
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.2772275,
+            "mean_price": 0.27946819069535006,
+            "total_volume": 30255699004
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.40139,
+            "level23_6": 0.348113,
+            "level38_2": 0.31515350000000003,
+            "level50": 0.288515,
+            "level61_8": 0.2618765,
+            "level100": 0.17564
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.24721,
+    "changePercent": "0.13"
+  },
+  "LINK_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 15.476800000000058,
+            "slope": -0.031520000000000256
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 58.05,
+            "slope": 1.1029999999999993
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.3422034192674257,
+              "slope": 0.06284446470182595
+            },
+            "signal": {
+              "last_value": 0.1694983664142641,
+              "slope": 0.05632822037145022
+            },
+            "histogram": {
+              "last_value": 0.1727050528531616,
+              "slope": 0.006516244330375717
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 15.414500000000004,
+              "slope": 0.06319999999999996
+            },
+            "upper": {
+              "last_value": 17.311745108044825,
+              "slope": 0.1450692837637865
+            },
+            "lower": {
+              "last_value": 13.517254891955183,
+              "slope": -0.01866928376378656
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 62.16216216216212,
+              "slope": -1.693388303557795
+            },
+            "d": {
+              "last_value": 61.96196196196184,
+              "slope": -0.6320818598619375
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.6358323634314571,
+            "slope": 0.010899878107453853
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 15.887644462079999,
+            "slope": 0.2091215007518718
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 15.975000000000001,
+              "slope": 0.12950000000000017
+            },
+            "kijunSen": {
+              "last_value": 15.5,
+              "slope": 0.08850000000000016
+            },
+            "senkouSpanA": {
+              "last_value": 15.7375,
+              "slope": 0.10900000000000017
+            },
+            "senkouSpanB": {
+              "last_value": 15.79,
+              "slope": -0.046499999999999986
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 23.77,
+            "mean_price": 21.046774039889172,
+            "total_volume": 394399848.47
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 27.21,
+            "level23_6": 23.96264,
+            "level38_2": 21.95368,
+            "level50": 20.33,
+            "level61_8": 18.706319999999998,
+            "level100": 13.45
+          }
+        }
+      }
+    ],
+    "currentPrice": 16.29,
+    "changePercent": "0.25"
+  },
+  "WLD_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 1.1223599999999998,
+            "slope": -0.0013779999999999903
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 53.32,
+            "slope": 0.4910000000000004
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.019146804151375818,
+              "slope": 0.0027700612648863254
+            },
+            "signal": {
+              "last_value": 0.012667464099394132,
+              "slope": 0.002369851508682818
+            },
+            "histogram": {
+              "last_value": 0.006479340051981686,
+              "slope": 0.0004002097562035074
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 1.132950000000001,
+              "slope": 0.0027399999999999647
+            },
+            "upper": {
+              "last_value": 1.229453834120724,
+              "slope": 0.00477606138053197
+            },
+            "lower": {
+              "last_value": 1.036446165879278,
+              "slope": 0.0007039386194679587
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 48.167539267015734,
+              "slope": -0.8794486049440046
+            },
+            "d": {
+              "last_value": 55.14834205933686,
+              "slope": 0.24488790750636724
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.04889843579884923,
+            "slope": 0.0004921584139208838
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 1.1265835997653604,
+            "slope": 0.011858359976536037
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 1.1625,
+              "slope": 0.006350000000000011
+            },
+            "kijunSen": {
+              "last_value": 1.133,
+              "slope": 0.0036999999999999924
+            },
+            "senkouSpanA": {
+              "last_value": 1.14775,
+              "slope": 0.00502499999999999
+            },
+            "senkouSpanB": {
+              "last_value": 1.1225,
+              "slope": -0.002499999999999991
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 1.2364499999999998,
+            "mean_price": 1.7206354050201955,
+            "total_volume": 3334070561.400001
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 2.803,
+            "level23_6": 2.368052,
+            "level38_2": 2.098974,
+            "level50": 1.8815,
+            "level61_8": 1.664026,
+            "level100": 0.96
+          }
+        }
+      }
+    ],
+    "currentPrice": 1.159,
+    "changePercent": "0.09"
+  },
+  "W_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.14033600000000027,
+            "slope": -0.0005552000000000002
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 37.29,
+            "slope": -0.19299999999999998
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.0019413187190321646,
+              "slope": 0.00007564021991946778
+            },
+            "signal": {
+              "last_value": -0.001485347699261471,
+              "slope": 0.0001363920650464336
+            },
+            "histogram": {
+              "last_value": -0.00045597101977069366,
+              "slope": -0.00006075184512696579
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.13741000000000023,
+              "slope": -0.00010549999999999727
+            },
+            "upper": {
+              "last_value": 0.14610940227831798,
+              "slope": 0.000049338137218135625
+            },
+            "lower": {
+              "last_value": 0.12871059772168247,
+              "slope": -0.00026033813721813013
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 3.191489361702217,
+              "slope": -2.0946441672780542
+            },
+            "d": {
+              "last_value": 8.11141615191036,
+              "slope": -2.292306660671038
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.005002715662415816,
+            "slope": 0.00002851818929765996
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.14752400000000002,
+            "slope": 0.0007364638000000006
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.1385,
+              "slope": 0.000060000000000001716
+            },
+            "kijunSen": {
+              "last_value": 0.1385,
+              "slope": 0.0000350000000000017
+            },
+            "senkouSpanA": {
+              "last_value": 0.1385,
+              "slope": 0.00004750000000000032
+            },
+            "senkouSpanB": {
+              "last_value": 0.14645,
+              "slope": -0.0005750000000000005
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.174175,
+            "mean_price": 0.21618386416082946,
+            "total_volume": 2944859701.9000006
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.3235,
+            "level23_6": 0.2765124,
+            "level38_2": 0.2474438,
+            "level50": 0.22395,
+            "level61_8": 0.20045620000000003,
+            "level100": 0.1244
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.1297,
+    "changePercent": "-0.08"
+  },
+  "WIF_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.6186000000000021,
+            "slope": 0.0010500000000000064
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 61.61,
+            "slope": 0.586
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.04021749772917527,
+              "slope": 0.0032846773926773266
+            },
+            "signal": {
+              "last_value": 0.033243696485429984,
+              "slope": 0.002874376148468867
+            },
+            "histogram": {
+              "last_value": 0.006973801243745283,
+              "slope": 0.00041030124420845924
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.67415,
+              "slope": 0.00726500000000001
+            },
+            "upper": {
+              "last_value": 0.7997498009552564,
+              "slope": 0.014564751963590684
+            },
+            "lower": {
+              "last_value": 0.5485501990447437,
+              "slope": -0.000034751963590662346
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 66.66666666666666,
+              "slope": -0.08547008547008375
+            },
+            "d": {
+              "last_value": 74.62686567164181,
+              "slope": 1.9356210400986533
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.03765358532020003,
+            "slope": 0.0007385536559139236
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.6636634649981993,
+            "slope": 0.00026334649981991644
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.7075,
+              "slope": 0.008099999999999996
+            },
+            "kijunSen": {
+              "last_value": 0.6685000000000001,
+              "slope": 0.00685
+            },
+            "senkouSpanA": {
+              "last_value": 0.6880000000000001,
+              "slope": 0.007474999999999998
+            },
+            "senkouSpanB": {
+              "last_value": 0.646,
+              "slope": 0.0030500000000000084
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.5881000000000001,
+            "mean_price": 1.001654127860503,
+            "total_volume": 7122843725.269999
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 2.224,
+            "level23_6": 1.8176080000000001,
+            "level38_2": 1.5661960000000001,
+            "level50": 1.363,
+            "level61_8": 1.159804,
+            "level100": 0.502
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.723,
+    "changePercent": "-0.28"
+  },
+  "STRK_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.2119599999999999,
+            "slope": -0.0002893999999999952
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 49.9,
+            "slope": 0.4469999999999999
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.001275098722582163,
+              "slope": 0.00033158053550025047
+            },
+            "signal": {
+              "last_value": 0.0007550826577186697,
+              "slope": 0.00025394332197997476
+            },
+            "histogram": {
+              "last_value": 0.0005200160648634934,
+              "slope": 0.0000776372135202757
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.21288500000000007,
+              "slope": 0.00018249999999999934
+            },
+            "upper": {
+              "last_value": 0.22724943872902809,
+              "slope": 0.0003126605958147094
+            },
+            "lower": {
+              "last_value": 0.19852056127097206,
+              "slope": 0.000052339404185289264
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 38.38709677419353,
+              "slope": -0.05473294553146957
+            },
+            "d": {
+              "last_value": 40.64516129032254,
+              "slope": 0.30491059624536804
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.007695958662778472,
+            "slope": 0.00005882275283612065
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.2096,
+            "slope": 0.0009058617750995618
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.2172,
+              "slope": 0.00058
+            },
+            "kijunSen": {
+              "last_value": 0.2147,
+              "slope": 0.00044500000000000095
+            },
+            "senkouSpanA": {
+              "last_value": 0.21595,
+              "slope": 0.0005125000000000019
+            },
+            "senkouSpanB": {
+              "last_value": 0.2085,
+              "slope": -0.0005500000000000005
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.23138,
+            "mean_price": 0.31912564587515446,
+            "total_volume": 2673157431.3200006
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.5384,
+            "level23_6": 0.4531568,
+            "level38_2": 0.4004216,
+            "level50": 0.3578,
+            "level61_8": 0.3151784,
+            "level100": 0.1772
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.2134,
+    "changePercent": "0.05"
+  },
+  "PEPE_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.000008183599999999996,
+            "slope": -2.5040000000000018e-8
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 47.37,
+            "slope": 0.4229999999999997
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 2.1456030870672452e-8,
+              "slope": 2.5046836972153772e-8
+            },
+            "signal": {
+              "last_value": -2.3074932258730334e-8,
+              "slope": 2.1585267575440237e-8
+            },
+            "histogram": {
+              "last_value": 4.453096312940279e-8,
+              "slope": 3.4615693967135344e-9
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.000007972999999999996,
+              "slope": 5.349999999999703e-9
+            },
+            "upper": {
+              "last_value": 0.000008732949998355151,
+              "slope": 5.6232064072028974e-9
+            },
+            "lower": {
+              "last_value": 0.000007213050001644841,
+              "slope": 5.076793592796509e-9
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 39.62264150943394,
+              "slope": -0.6455789863115122
+            },
+            "d": {
+              "last_value": 45.073375262054505,
+              "slope": 1.2558472917930117
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 3.5726992724829566e-7,
+            "slope": 5.932149348981104e-9
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.000007638254496027442,
+            "slope": -3.037011811513056e-8
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.00000825,
+              "slope": 5.6000000000000144e-8
+            },
+            "kijunSen": {
+              "last_value": 0.000008105000000000001,
+              "slope": 1.7500000000000087e-8
+            },
+            "senkouSpanA": {
+              "last_value": 0.000008177500000000001,
+              "slope": 3.6750000000000114e-8
+            },
+            "senkouSpanB": {
+              "last_value": 0.000008534999999999999,
+              "slope": -1.7000000000000007e-8
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.000009456,
+            "mean_price": 0.000013125669863152252,
+            "total_volume": 1424473972609281
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.0000219,
+            "level23_6": 0.00001844496,
+            "level38_2": 0.00001630752,
+            "level50": 0.00001458,
+            "level61_8": 0.00001285248,
+            "level100": 0.00000726
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.00000799,
+    "changePercent": "0.13"
+  },
+  "BONK_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.000013794599999999998,
+            "slope": -3.2620000000000037e-8
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 45.78,
+            "slope": -0.4479999999999997
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 1.262117687924824e-7,
+              "slope": 2.405043682629879e-8
+            },
+            "signal": {
+              "last_value": 1.3150184567620229e-7,
+              "slope": 3.501628892615441e-8
+            },
+            "histogram": {
+              "last_value": -5.290076883719877e-9,
+              "slope": -1.0965852099855618e-8
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.000013915499999999996,
+              "slope": 5.374999999999978e-8
+            },
+            "upper": {
+              "last_value": 0.000015221079947762674,
+              "slope": 8.519472623970882e-8
+            },
+            "lower": {
+              "last_value": 0.000012609920052237317,
+              "slope": 2.2305273760290746e-8
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 19.847328244274824,
+              "slope": -5.8262124492043625
+            },
+            "d": {
+              "last_value": 28.371501272264663,
+              "slope": -4.741622675426937
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 6.135155940173118e-7,
+            "slope": 1.2023830627911299e-8
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.000015637599999999997,
+            "slope": 3.173213154879076e-7
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.00001437,
+              "slope": 8.149999999999998e-8
+            },
+            "kijunSen": {
+              "last_value": 0.000013854999999999999,
+              "slope": 8.149999999999981e-8
+            },
+            "senkouSpanA": {
+              "last_value": 0.000014112499999999999,
+              "slope": 8.149999999999998e-8
+            },
+            "senkouSpanB": {
+              "last_value": 0.00001414,
+              "slope": -3.5499999999999914e-8
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.000032925,
+            "mean_price": 0.000025597996565092823,
+            "total_volume": 135694676978449
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.00003989,
+            "level23_6": 0.00003331504,
+            "level38_2": 0.00002924748,
+            "level50": 0.00002596,
+            "level61_8": 0.000022672519999999998,
+            "level100": 0.00001203
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.00001358,
+    "changePercent": "0.00"
+  },
+  "BLUR_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.13298200000000018,
+            "slope": -0.0003009999999999985
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 46.16,
+            "slope": 0.09399999999999978
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.000018305083145347956,
+              "slope": 0.00016704710705563175
+            },
+            "signal": {
+              "last_value": -0.00016773909446983725,
+              "slope": 0.00017492511404388047
+            },
+            "histogram": {
+              "last_value": 0.0001494340113244893,
+              "slope": -0.00000787800698824872
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.1314799999999999,
+              "slope": 0.00009599999999999886
+            },
+            "upper": {
+              "last_value": 0.1379504250246795,
+              "slope": 0.000005245782496934859
+            },
+            "lower": {
+              "last_value": 0.1250095749753203,
+              "slope": 0.00018675421750306286
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 30.379746835443065,
+              "slope": -2.914406268836651
+            },
+            "d": {
+              "last_value": 34.599156118143384,
+              "slope": -2.0523246043604275
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.004302332219241922,
+            "slope": 0.0000016229971192873934
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.1289,
+            "slope": -0.0002925553361663114
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.1341,
+              "slope": 0.0004649999999999987
+            },
+            "kijunSen": {
+              "last_value": 0.13135,
+              "slope": -0.000029999999999999472
+            },
+            "senkouSpanA": {
+              "last_value": 0.13272499999999998,
+              "slope": 0.00021749999999999824
+            },
+            "senkouSpanB": {
+              "last_value": 0.13535,
+              "slope": -0.00026500000000000135
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.13047,
+            "mean_price": 0.17644387175147944,
+            "total_volume": 1766234692.3000004
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.2833,
+            "level23_6": 0.2408672,
+            "level38_2": 0.21461639999999998,
+            "level50": 0.1934,
+            "level61_8": 0.1721836,
+            "level100": 0.1035
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.1302,
+    "changePercent": "0.08"
+  },
+  "MEME_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.0037740000000000035,
+            "slope": -0.0000108200000000001
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 44.21,
+            "slope": 0.009000000000000341
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.000015009903305568222,
+              "slope": 0.000005191962823404301
+            },
+            "signal": {
+              "last_value": -0.000015935585436822415,
+              "slope": 0.000004852914638829911
+            },
+            "histogram": {
+              "last_value": 9.256821312541937e-7,
+              "slope": 3.390481845743901e-7
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.003729000000000002,
+              "slope": 6.500000000000429e-7
+            },
+            "upper": {
+              "last_value": 0.003987139497171589,
+              "slope": -0.000003139259568322398
+            },
+            "lower": {
+              "last_value": 0.0034708605028284144,
+              "slope": 0.000004439259568322484
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 25.454545454545435,
+              "slope": -2.0000000000000004
+            },
+            "d": {
+              "last_value": 32.121212121212075,
+              "slope": -0.9090909090909115
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.0001554725553191639,
+            "slope": 5.73942971866383e-7
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.00354284356176,
+            "slope": 0.0000032843561759999912
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.003765,
+              "slope": 0.000005000000000000013
+            },
+            "kijunSen": {
+              "last_value": 0.003705,
+              "slope": 0.0000029999999999999645
+            },
+            "senkouSpanA": {
+              "last_value": 0.003735,
+              "slope": 0.000003999999999999967
+            },
+            "senkouSpanB": {
+              "last_value": 0.003915,
+              "slope": -0.00000499999999999997
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.004612,
+            "mean_price": 0.006297452299056737,
+            "total_volume": 145756862127
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.01182,
+            "level23_6": 0.00981872,
+            "level38_2": 0.00858064,
+            "level50": 0.00758,
+            "level61_8": 0.00657936,
+            "level100": 0.00334
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.00363,
+    "changePercent": "0.00"
+  },
+  "AVAX_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 22.509599999999992,
+            "slope": -0.039359999999999576
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 54.04,
+            "slope": 0.6589999999999996
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.38465790008103085,
+              "slope": 0.06486902176179363
+            },
+            "signal": {
+              "last_value": 0.24944417912302227,
+              "slope": 0.058421507081629666
+            },
+            "histogram": {
+              "last_value": 0.13521372095800857,
+              "slope": 0.006447514680163971
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 22.65100000000002,
+              "slope": 0.07219999999999978
+            },
+            "upper": {
+              "last_value": 24.84768750622388,
+              "slope": 0.15589978357475404
+            },
+            "lower": {
+              "last_value": 20.45431249377616,
+              "slope": -0.011499783574754474
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 54.54545454545452,
+              "slope": -1.31016042780749
+            },
+            "d": {
+              "last_value": 56.1834561834562,
+              "slope": -0.2164494229229014
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.845301528279685,
+            "slope": 0.00942845430135233
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 22.412714595166722,
+            "slope": 0.020213030459824567
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 23.34,
+              "slope": 0.15650000000000014
+            },
+            "kijunSen": {
+              "last_value": 22.675,
+              "slope": 0.08649999999999984
+            },
+            "senkouSpanA": {
+              "last_value": 23.0075,
+              "slope": 0.12149999999999998
+            },
+            "senkouSpanB": {
+              "last_value": 23.055,
+              "slope": -0.03299999999999983
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 36.363,
+            "mean_price": 30.49241145688078,
+            "total_volume": 175825332.59000003
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 45.05,
+            "level23_6": 39.192479999999996,
+            "level38_2": 35.56876,
+            "level50": 32.64,
+            "level61_8": 29.71124,
+            "level100": 20.23
+          }
+        }
+      }
+    ],
+    "currentPrice": 23.27,
+    "changePercent": "0.13"
+  },
+  "MATIC_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.38247399999999965,
+            "slope": -0.0008037999999999934
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 52.32,
+            "slope": 0.7070000000000001
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.0004039786845222437,
+              "slope": 0.0004641965024369976
+            },
+            "signal": {
+              "last_value": -0.0023713151421150347,
+              "slope": 0.00048769972825025754
+            },
+            "histogram": {
+              "last_value": 0.001967336457592791,
+              "slope": -0.00002350322581325991
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.3742149999999994,
+              "slope": 0.0003835000000000033
+            },
+            "upper": {
+              "last_value": 0.382812272823401,
+              "slope": 0.0005119927098533317
+            },
+            "lower": {
+              "last_value": 0.3656177271765978,
+              "slope": 0.0002550072901466749
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 65.76086956521749,
+              "slope": -1.6246050850007308
+            },
+            "d": {
+              "last_value": 77.89855072463769,
+              "slope": -0.0071460809387687615
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.007068226705960983,
+            "slope": -0.00007392929004861005
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.3604611974893058,
+            "slope": 0.0009961197489305796
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.3765,
+              "slope": 0.0006149999999999989
+            },
+            "kijunSen": {
+              "last_value": 0.3681,
+              "slope": -0.00034000000000000143
+            },
+            "senkouSpanA": {
+              "last_value": 0.37229999999999996,
+              "slope": 0.00013749999999999597
+            },
+            "senkouSpanB": {
+              "last_value": 0.3831,
+              "slope": -0.000539999999999996
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.519975,
+            "mean_price": 0.46145439143652917,
+            "total_volume": 4519253729.4
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.5819,
+            "level23_6": 0.5234428,
+            "level38_2": 0.4872786,
+            "level50": 0.45804999999999996,
+            "level61_8": 0.4288214,
+            "level100": 0.3342
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.3794,
+    "changePercent": "-0.73"
+  },
+  "PYTH_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.21066999999999964,
+            "slope": -0.0006395999999999985
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 43.05,
+            "slope": -0.23100000000000023
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.0014330170100614326,
+              "slope": 0.00019542217133856066
+            },
+            "signal": {
+              "last_value": -0.0012278227995839689,
+              "slope": 0.000254189895458788
+            },
+            "histogram": {
+              "last_value": -0.0002051942104774637,
+              "slope": -0.000058767724120227344
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.20612499999999997,
+              "slope": -0.00003299999999999415
+            },
+            "upper": {
+              "last_value": 0.2179483455502239,
+              "slope": -0.0003049209245959528
+            },
+            "lower": {
+              "last_value": 0.19430165444977604,
+              "slope": 0.00023892092459596448
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 9.737827715355772,
+              "slope": -4.898557653996342
+            },
+            "d": {
+              "last_value": 14.481897627965045,
+              "slope": -3.7893785687543953
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.007828830905230759,
+            "slope": 0.000010156409385082399
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.1972261665670758,
+            "slope": -0.0009874909720924197
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.2111,
+              "slope": 0.0006200000000000011
+            },
+            "kijunSen": {
+              "last_value": 0.20675,
+              "slope": 0.00011499999999999843
+            },
+            "senkouSpanA": {
+              "last_value": 0.208925,
+              "slope": 0.0003675000000000012
+            },
+            "senkouSpanB": {
+              "last_value": 0.21939999999999998,
+              "slope": -0.00028000000000000247
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.20081,
+            "mean_price": 0.2660666041158989,
+            "total_volume": 2179878627.1000004
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.406,
+            "level23_6": 0.34902960000000005,
+            "level38_2": 0.3137852,
+            "level50": 0.2853,
+            "level61_8": 0.2568148,
+            "level100": 0.1646
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.2001,
+    "changePercent": "0.20"
+  },
+  "BNB_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 611.6597999999993,
+            "slope": -1.0316000000000145
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 40.42,
+            "slope": -1.1119999999999997
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -1.9011914512742578,
+              "slope": 0.2936256676311132
+            },
+            "signal": {
+              "last_value": -1.2934107474836771,
+              "slope": 0.742538784166787
+            },
+            "histogram": {
+              "last_value": -0.6077807037905807,
+              "slope": -0.4489131165356738
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 602.8104999999996,
+              "slope": 0.520949999999982
+            },
+            "upper": {
+              "last_value": 625.1405743169382,
+              "slope": -0.11494520868975541
+            },
+            "lower": {
+              "last_value": 580.480425683061,
+              "slope": 1.1568452086897196
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 13.239436619718381,
+              "slope": -7.877606725625081
+            },
+            "d": {
+              "last_value": 18.041094389123305,
+              "slope": -7.329661988078351
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 12.462016603729602,
+            "slope": 0.0694648870406775
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 629.86846656,
+            "slope": 6.448893504
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 610.16,
+              "slope": 1.2605000000000017
+            },
+            "kijunSen": {
+              "last_value": 597.36,
+              "slope": 0.1435000000000059
+            },
+            "senkouSpanA": {
+              "last_value": 603.76,
+              "slope": 0.7019999999999982
+            },
+            "senkouSpanB": {
+              "last_value": 614.1500000000001,
+              "slope": -0.5654999999999972
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 708.4965,
+            "mean_price": 657.8528836639674,
+            "total_volume": 25027123.923999995
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 745.29,
+            "level23_6": 687.40156,
+            "level38_2": 651.58922,
+            "level50": 622.645,
+            "level61_8": 593.70078,
+            "level100": 500
+          }
+        }
+      }
+    ],
+    "currentPrice": 591.89,
+    "changePercent": "0.01"
+  },
+  "TIA_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 3.776359999999998,
+            "slope": 0.005512000000000006
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 41.9,
+            "slope": -2.3089999999999997
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.011374145617855547,
+              "slope": -0.013729949151322885
+            },
+            "signal": {
+              "last_value": 0.0780394776806382,
+              "slope": -0.003725844916913862
+            },
+            "histogram": {
+              "last_value": -0.06666533206278265,
+              "slope": -0.010004104234409023
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 4.044699999999996,
+              "slope": 0.015939999999999975
+            },
+            "upper": {
+              "last_value": 4.414961043049356,
+              "slope": -0.0006509862539521016
+            },
+            "lower": {
+              "last_value": 3.6744389569506364,
+              "slope": 0.03253098625395201
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 3.5043804755944965,
+              "slope": -8.357850434679523
+            },
+            "d": {
+              "last_value": 5.7425356199987165,
+              "slope": -7.746521464910789
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.16974823160145386,
+            "slope": -0.00007943648357144617
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 4.35985215616,
+            "slope": 0.06588992831277288
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 4.1005,
+              "slope": 0.011600000000000055
+            },
+            "kijunSen": {
+              "last_value": 3.9444999999999997,
+              "slope": 0.00910000000000002
+            },
+            "senkouSpanA": {
+              "last_value": 4.0225,
+              "slope": 0.010350000000000036
+            },
+            "senkouSpanB": {
+              "last_value": 3.7555,
+              "slope": 0.00910000000000002
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 3.1915,
+            "mean_price": 4.018176361084403,
+            "total_volume": 546918231.46
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 5.707,
+            "level23_6": 4.915456,
+            "level38_2": 4.425772,
+            "level50": 4.03,
+            "level61_8": 3.6342280000000002,
+            "level100": 2.353
+          }
+        }
+      }
+    ],
+    "currentPrice": 3.729,
+    "changePercent": "0.08"
+  },
+  "SEI_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.2617239999999999,
+            "slope": -0.000404199999999999
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 43.11,
+            "slope": -0.11199999999999974
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": -0.00180550895383913,
+              "slope": 0.0003265836134832223
+            },
+            "signal": {
+              "last_value": -0.0019647723457246547,
+              "slope": 0.00033862504186689
+            },
+            "histogram": {
+              "last_value": 0.00015926339188552466,
+              "slope": -0.000012041428383667737
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.25180500000000017,
+              "slope": -0.00011199999999998989
+            },
+            "upper": {
+              "last_value": 0.2653791629576193,
+              "slope": -0.0009508976617587205
+            },
+            "lower": {
+              "last_value": 0.23823083704238102,
+              "slope": 0.0007268976617587408
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 14.641744548286638,
+              "slope": -4.146386601276939
+            },
+            "d": {
+              "last_value": 19.10695742471447,
+              "slope": -2.9796312182316482
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.009205731577736544,
+            "slope": -0.00002817726514027473
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.273798,
+            "slope": 0.0019694601223286534
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.25834999999999997,
+              "slope": 0.0006749999999999979
+            },
+            "kijunSen": {
+              "last_value": 0.25325,
+              "slope": -0.0007150000000000045
+            },
+            "senkouSpanA": {
+              "last_value": 0.25579999999999997,
+              "slope": -0.00002000000000000335
+            },
+            "senkouSpanB": {
+              "last_value": 0.2622,
+              "slope": 0
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.2611,
+            "mean_price": 0.30575460894178813,
+            "total_volume": 8227980700.800001
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.4804,
+            "level23_6": 0.4113936,
+            "level38_2": 0.3687032,
+            "level50": 0.3342,
+            "level61_8": 0.2996968,
+            "level100": 0.188
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.247,
+    "changePercent": "-0.04"
+  },
+  "MANTA_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.3621599999999998,
+            "slope": -0.0004560000000000064
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 48.3,
+            "slope": 0.045999999999999375
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.0030556701980647416,
+              "slope": 0.0005015981691104509
+            },
+            "signal": {
+              "last_value": 0.003345119981497073,
+              "slope": 0.0005589694888233476
+            },
+            "histogram": {
+              "last_value": -0.0002894497834323314,
+              "slope": -0.000057371319712896596
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.36820000000000064,
+              "slope": 0.0008899999999999908
+            },
+            "upper": {
+              "last_value": 0.39900000000000063,
+              "slope": 0.0017735483160333243
+            },
+            "lower": {
+              "last_value": 0.33740000000000064,
+              "slope": 0.000006451683966657296
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 23.880597014925392,
+              "slope": -3.066485753052909
+            },
+            "d": {
+              "last_value": 25.87064676616912,
+              "slope": -2.640208050655804
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.015054652572918346,
+            "slope": 0.00019401018454786226
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.41174079999999996,
+            "slope": 0.006817327315514809
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.384,
+              "slope": 0.002200000000000002
+            },
+            "kijunSen": {
+              "last_value": 0.3735,
+              "slope": 0.0019500000000000016
+            },
+            "senkouSpanA": {
+              "last_value": 0.37875000000000003,
+              "slope": 0.002075000000000005
+            },
+            "senkouSpanB": {
+              "last_value": 0.36,
+              "slope": -0.0002500000000000002
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.4088,
+            "mean_price": 0.5412460732084939,
+            "total_volume": 1444010861.3
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.997,
+            "level23_6": 0.833688,
+            "level38_2": 0.732656,
+            "level50": 0.651,
+            "level61_8": 0.5693440000000001,
+            "level100": 0.305
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.364,
+    "changePercent": "0.00"
+  },
+  "JUP_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.7318300000000002,
+            "slope": -0.00027279999999999525
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 44.78,
+            "slope": -1.221
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.007596983150926606,
+              "slope": 0.000073996517146524
+            },
+            "signal": {
+              "last_value": 0.012548020177669119,
+              "slope": 0.0009842336415434724
+            },
+            "histogram": {
+              "last_value": -0.004951037026742513,
+              "slope": -0.0009102371243969483
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.759465000000001,
+              "slope": 0.0027430000000000067
+            },
+            "upper": {
+              "last_value": 0.8186825404757755,
+              "slope": 0.0047216168447908324
+            },
+            "lower": {
+              "last_value": 0.7002474595242264,
+              "slope": 0.0007643831552091807
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 4.9859550561797725,
+              "slope": -8.431489240144733
+            },
+            "d": {
+              "last_value": 10.62734082396997,
+              "slope": -7.478932584269664
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.03126158779701768,
+            "slope": 0.0006392282947791223
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.8509740288,
+            "slope": 0.014626993863299343
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.7949999999999999,
+              "slope": 0.005044999999999989
+            },
+            "kijunSen": {
+              "last_value": 0.7685500000000001,
+              "slope": 0.005340000000000011
+            },
+            "senkouSpanA": {
+              "last_value": 0.781775,
+              "slope": 0.0051925
+            },
+            "senkouSpanB": {
+              "last_value": 0.75005,
+              "slope": 0.0018749999999999934
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.8600350000000001,
+            "mean_price": 0.9306441092856879,
+            "total_volume": 4390236327.700001
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 1.28,
+            "level23_6": 1.1275204,
+            "level38_2": 1.0331898,
+            "level50": 0.95695,
+            "level61_8": 0.8807102,
+            "level100": 0.6339
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.7309,
+    "changePercent": "0.14"
+  },
+  "ARB_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 0.4264820000000005,
+            "slope": -0.0008824000000000054
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 47.31,
+            "slope": -0.16599999999999965
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 0.0020001302989194336,
+              "slope": 0.000656108005452255
+            },
+            "signal": {
+              "last_value": 0.0015194871657326777,
+              "slope": 0.0008001101345809919
+            },
+            "histogram": {
+              "last_value": 0.0004806431331867559,
+              "slope": -0.00014400212912873682
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 0.425425,
+              "slope": 0.0008204999999999963
+            },
+            "upper": {
+              "last_value": 0.4544045703901904,
+              "slope": 0.0011768622640794923
+            },
+            "lower": {
+              "last_value": 0.3964454296098096,
+              "slope": 0.0004641377359205001
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 30.407523510971817,
+              "slope": -5.189132706374086
+            },
+            "d": {
+              "last_value": 34.01253918495301,
+              "slope": -3.6343041567546335
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 0.01472264538392289,
+            "slope": 0.00014986815160152636
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 0.46561400000000003,
+            "slope": 0.007347823033487366
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 0.43785,
+              "slope": 0.002300000000000002
+            },
+            "kijunSen": {
+              "last_value": 0.42500000000000004,
+              "slope": 0.001375000000000004
+            },
+            "senkouSpanA": {
+              "last_value": 0.43142500000000006,
+              "slope": 0.001837500000000003
+            },
+            "senkouSpanB": {
+              "last_value": 0.4355,
+              "slope": -0.000990000000000002
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 0.43667999999999996,
+            "mean_price": 0.5996440349155373,
+            "total_volume": 5464823566.3
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 0.9545,
+            "level23_6": 0.8107288,
+            "level38_2": 0.7217856,
+            "level50": 0.6499,
+            "level61_8": 0.5780144,
+            "level100": 0.3453
+          }
+        }
+      }
+    ],
+    "currentPrice": 0.4222,
+    "changePercent": "0.07"
+  },
+  "SOL_USD": {
+    "optimizedIndicator": [
+      {
+        "Moving Average (MA)": {
+          "ma50": {
+            "last_value": 147.3348000000002,
+            "slope": -0.22382000000000063
+          }
+        }
+      },
+      {
+        "Relative Strength Index (RSI)": {
+          "rsi14": {
+            "last_value": 55.19,
+            "slope": 0.4109999999999999
+          }
+        }
+      },
+      {
+        "MACD": {
+          "macd_12_26_9": {
+            "macd": {
+              "last_value": 5.020413973979345,
+              "slope": 0.6162231154639158
+            },
+            "signal": {
+              "last_value": 3.8682795954679454,
+              "slope": 0.629451852337597
+            },
+            "histogram": {
+              "last_value": 1.1521343785113993,
+              "slope": -0.013228736873681157
+            }
+          }
+        }
+      },
+      {
+        "Bollinger Bands": {
+          "bollinger_20_2": {
+            "middle": {
+              "last_value": 152.09149999999997,
+              "slope": 1.2301000000000015
+            },
+            "upper": {
+              "last_value": 174.9929901480231,
+              "slope": 2.446314477691229
+            },
+            "lower": {
+              "last_value": 129.19000985197684,
+              "slope": 0.013885522308774512
+            }
+          }
+        }
+      },
+      {
+        "Stochastic Oscillator": {
+          "stochastic_14_3": {
+            "k": {
+              "last_value": 47.14147286821707,
+              "slope": -2.4064752812716756
+            },
+            "d": {
+              "last_value": 49.41052971576233,
+              "slope": -1.7243166782292172
+            }
+          }
+        }
+      },
+      {
+        "ATR": {
+          "atr14": {
+            "last_value": 7.628371573442205,
+            "slope": 0.2359471291004498
+          }
+        }
+      },
+      {
+        "Parabolic SAR": {
+          "sar": {
+            "last_value": 154.07,
+            "slope": 1.932517800115582
+          }
+        }
+      },
+      {
+        "Ichimoku Cloud": {
+          "ichimoku_9_26_52": {
+            "tenkanSen": {
+              "last_value": 159.945,
+              "slope": 1.5034999999999996
+            },
+            "kijunSen": {
+              "last_value": 152.7,
+              "slope": 1.4299999999999984
+            },
+            "senkouSpanA": {
+              "last_value": 156.3225,
+              "slope": 1.4667499999999989
+            },
+            "senkouSpanB": {
+              "last_value": 152.7,
+              "slope": -0.03350000000000079
+            },
+            "chikouSpan": {
+              "last_value": null,
+              "slope": null
+            }
+          }
+        }
+      },
+      {
+        "Volume Profile": {
+          "volumeProfile": {
+            "peak_price_level": 202.176,
+            "mean_price": 205.82251511362122,
+            "total_volume": 337460472.66899997
+          }
+        }
+      },
+      {
+        "Fibonacci Retracement": {
+          "Fibonacci_Retracement": {
+            "level0": 295.83,
+            "level23_6": 255.64391999999998,
+            "level38_2": 230.78304,
+            "level50": 210.69,
+            "level61_8": 190.59696,
+            "level100": 125.55
+          }
+        }
+      }
+    ],
+    "currentPrice": 158.03,
+    "changePercent": "0.16"
+  }
+}
