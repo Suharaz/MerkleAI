@@ -28,6 +28,7 @@ export async function executeTradingStrategy(
 
    
     if (!OptimizedIndicator || OptimizedIndicator.length === 0) {
+      logger.error(`⚠️ No indicators found for ${token}`);
       return "null";
     }
 
@@ -58,6 +59,7 @@ export async function executeTradingStrategy(
 
 
     if (!strategies || strategies.length === 0) {
+
       return `⚠️ AI does not provide any trading strategies for <b>${token}</b> (${timeframe}).`;
     }
 
@@ -79,10 +81,20 @@ export async function executeTradingStrategy(
               // order opening conditions
               const positionSize = strategy.pay * strategy.leverage;
               if (positionSize <= 300) {
-                logger.warn(`⚠️ Skip transaction ${strategy.action}because the order size is too small: ${positionSize} USDC`);
+                logger.error(`⚠️ Skip transaction ${strategy.action}  because the order size is too small: ${positionSize} USDC`);
+                actionMessage += `Do nothing\n<b>Reason</b>: Order size is too small: ${positionSize} USDC`;
                 continue;
               }
-
+              if (strategy.pay >= usdcBalance) {
+                logger.error(`⚠️ Skip transaction ${strategy.action}  because the order size is too large: ${strategy.pay} USDC. Available balance: ${usdcBalance} USDC`);
+                actionMessage += `Do nothing\n<b>Reason</b>: Order size is too large: ${strategy.pay} USDC. Available balance: ${usdcBalance} USDC`;
+                continue;
+              }
+              if (strategy.leverage > 150) {
+                logger.error(`⚠️ Skip transaction ${strategy.action} because leverage is too high: ${strategy.leverage}x`);
+                actionMessage += `Do nothing\n<b>Reason</b>: Leverage is too high: ${strategy.leverage}x`;
+                continue;
+              }
               const tx = await openLimitOrder({
                 privateKey,
                 pair: token,
@@ -157,6 +169,3 @@ export async function executeTradingStrategy(
     return "⚠️Error in executing trading strategy.";
   }
 }
-
-
-
